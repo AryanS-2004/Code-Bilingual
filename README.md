@@ -1,6 +1,6 @@
 # Code Bilingual
 
-Bilingual Coding is a versatile and powerful code converter app designed to streamline your coding experience across multiple programming languages. With Bilingual Coding, you can effortlessly convert your code snippets from one language to another, making it easier than ever to work with different programming paradigms.
+Code Bilingual is a versatile and powerful code converter app designed to streamline your coding experience across multiple programming languages. With Bilingual Coding, you can effortlessly convert your code snippets from one language to another, making it easier than ever to work with different programming paradigms.
 
 This intuitive app provides a user-friendly interface that caters to both beginner and experienced developers. Whether you are a student exploring various languages or a professional developer working on multilingual projects, Bilingual Coding has you covered. Seamlessly switch between languages, eliminate tedious manual conversions, and save valuable time and effort.
 
