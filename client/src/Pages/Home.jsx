@@ -79,7 +79,7 @@ const Home = () => {
         <>
             <Box fontFamily="Josefin Sans" className="flex flex-col h-screen">
                 <Box as="h1" textAlign="center" fontFamily="Josefin Sans" className="text-6xl px-4 py-2 pt-3 text-[#f2d0a9] font-bold font-['Josefin Sans']" mb={6}>
-                    Bilingual Code
+                    Code Bilingual
                 </Box>
                 <Box className="flex w-full justify-between">
                     <Menu>
