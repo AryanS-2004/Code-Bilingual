@@ -47,7 +47,7 @@ const Home = () => {
                 }
             }
 
-            const data = await axios.post("http://localhost:3000/", {
+            const data = await axios.post(`${import.meta.env.VITE_API_URL}`, {
                 text: text,
                 lang: lang
             }, config);
